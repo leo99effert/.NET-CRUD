@@ -7,5 +7,12 @@
         public int CustomerId { get; set; }
         public Book Book { get; set; }
         public Customer Customer { get; set; }
+        public int Year { get; set; }
+        public int Rating { get; set; }
+        public string ISBN { get; set; }
+        public string LibraryCard { get; set; }
+        public string StartDate { get; set; }
+        public string ReturnDate { get; set; }
+
     }
 }
