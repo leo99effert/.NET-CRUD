@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Library_Leo_Effert", "Library_Leo_Effert.csproj", "{5087D958-A6F0-4A31-BA5D-C2F0B976DFBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5087D958-A6F0-4A31-BA5D-C2F0B976DFBE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5087D958-A6F0-4A31-BA5D-C2F0B976DFBE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5087D958-A6F0-4A31-BA5D-C2F0B976DFBE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5087D958-A6F0-4A31-BA5D-C2F0B976DFBE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26223FE-7308-4A5F-96B6-6160B5B173C8}
+	EndGlobalSection
+EndGlobal
